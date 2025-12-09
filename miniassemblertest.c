@@ -3,7 +3,7 @@
 /* Author: Bob Dondero, Donna Gabai, Zara Hommez                      */
 /*--------------------------------------------------------------------*/
 
-#include "miniassembler.h"
+#include "miniassemblertest.h"
 #include <assert.h>
 #include <stddef.h>
 /* ask about implementation specifications */

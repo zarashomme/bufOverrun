@@ -40,7 +40,7 @@ int main(void)
    /* address of instruction in main to skip strcmp and set grade = 'B'
    This should point to 0x400890, the adrp instruction that starts the
    grade assignment */
-   unsigned long returnAddr = 0x4008b0; 
+   unsigned long returnAddr = 0x400890; 
 
    /* Open file dataB for writing in binary mode */
    pFileB = fopen("dataB", "wb");
